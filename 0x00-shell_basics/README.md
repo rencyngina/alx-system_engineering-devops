@@ -1,2 +1,2 @@
 #!/bin/bash
-i love learning
+Hey world

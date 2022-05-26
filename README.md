@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd
+I love me

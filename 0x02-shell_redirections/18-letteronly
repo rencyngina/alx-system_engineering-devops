@@ -1,2 +1,3 @@
 #!/bin/bash
-grep ^[[:alpha:]] /etc/sshd_config
+greep ^[[:alpha:]] /etc/ssh/
+sshd_config
